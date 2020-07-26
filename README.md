@@ -8,6 +8,10 @@ The home of my data analytics/data science projects.
 - Created a new, more accurate model with the XGBoost parameters n_estimators and learning_rate
 - The new model can predict house prices with a mean error of approx. $16800
 
+# [Kiva Loans Philippines Recruitment: Project Overview](https://github.com/jakeockerby/Kiva-Loans)
+- Loaded a GeoDataFrame of Kiva Loans locations in the Philippines
+- Loaded a world map and map of the Philippines with Kiva Loans locations plotted
+- Identified which places were available for recruitment
 
 # [USA Birth Names: Project Overview](https://github.com/jakeockerby/USA-Birth-Names)
 - Created a tool that analysizes and visualises USA birth name data from 1880-2018
