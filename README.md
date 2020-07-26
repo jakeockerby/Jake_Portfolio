@@ -8,6 +8,12 @@ The home of my data analytics/data science projects.
 - Created a new, more accurate model with the XGBoost parameters n_estimators and learning_rate
 - The new model can predict house prices with a mean error of approx. $16800
 
+# [Bird Migration Mapping: Project Overview](https://github.com/jakeockerby/Bird-Migration)
+- Analysed the locations of 11 different purple martins sampled at frequent intevals of the year
+- Separated the starting locations of the birds from their destinations
+- Mapped each individual bird's flight path using GeoPandas and Coordinate Reference System (CRS)
+- Found that all of the birds migrated to Brazil in the general area of the amazon rainforest
+
 # [Kiva Loans Philippines Recruitment: Project Overview](https://github.com/jakeockerby/Kiva-Loans)
 - Loaded a GeoDataFrame of Kiva Loans locations in the Philippines
 - Loaded a world map and map of the Philippines with Kiva Loans locations plotted
