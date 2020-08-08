@@ -8,6 +8,15 @@ The home of my data analytics/data science projects.
 - Created a new, more accurate model with the XGBoost parameters n_estimators and learning_rate
 - The new model can predict house prices with a mean error of approx. $16800
 
+# [Starbucks California Data Analysis: Project Overview](https://github.com/jakeockerby/Starbucks-California-Data-Analysis)
+- Detected missing latiude and longitude data and filled them in
+- Visualised the missing locations on a map
+- Selected counties that have a high income, low median age and high density as potential new starbucks locations
+- Used population data to calculate how many starbucks stores there should be in each selected county
+- Compared the findings with how many starbucks stores there actually are in each county
+- Visualised the actual stores in each selected county on a map using MarkerCluster()
+- Found orange county to be the best candidate
+
 # [Bird Migration Mapping: Project Overview](https://github.com/jakeockerby/Bird-Migration)
 - Analysed the locations of 11 different purple martins sampled at frequent intevals of the year
 - Separated the starting locations of the birds from their destinations
