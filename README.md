@@ -8,6 +8,11 @@ The home of my data analytics/data science projects.
 - Created a new, more accurate model with the XGBoost parameters n_estimators and learning_rate
 - The new model can predict house prices with a mean error of approx. $16800
 
+# [Cereal Brands and Nutrition Analysis: Project Overview](https://github.com/jakeockerby/Cereal-Nutrition)
+- Created scatterplots to find correlations between nutritional information and rating
+- Created a barplot to show the most highly rated manufacturers on average
+- Created another barplot to find whether hot or cold cereal is rated more highly
+
 # [Starbucks California Data Analysis: Project Overview](https://github.com/jakeockerby/Starbucks-California-Data-Analysis)
 - Detected missing latiude and longitude data and filled them in
 - Visualised the missing locations on a map
