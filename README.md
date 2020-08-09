@@ -17,6 +17,12 @@ The home of my data analytics/data science projects.
 - Visualised the actual stores in each selected county on a map using MarkerCluster()
 - Found orange county to be the best candidate
 
+# [Dogs and Dog Owners of Zurich: Project Overview](https://github.com/jakeockerby/Dogs-of-Zurich)
+- Calculated the distrubution of the age of dogs and displayed the findings on a distrubution curve graph
+- Calculated the mean age of a dog for each age group, '21-30','31-40' etc. with findings shown on a bar graph
+- Made a function to draw a graph of the 5 most popular breeds of dog for each age group
+- Used the findings to suggest the most suitable dog breed for someone of a particular age group
+
 # [Cereal Brands and Nutrition Analysis: Project Overview](https://github.com/jakeockerby/Cereal-Nutrition)
 - Created scatterplots to find correlations between nutritional information and rating
 - Created a barplot to show the most highly rated manufacturers on average
