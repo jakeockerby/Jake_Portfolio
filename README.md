@@ -1,6 +1,9 @@
 # Jake_Portfolio
 The home of my data analytics/data science projects.
 
+# [Other Projects](https://github.com/jakeockerby/Other-Projects)
+- A collection of more recent projects I've been working on
+
 # [House Price Prediction Model: Project Overview](https://github.com/jakeockerby/House-Price-Predictor)
 - Used the XGBoost python library to build models
 - Split the data into two with train_test_split built-in function
